@@ -6,6 +6,7 @@ KERE MOHAMED BACHIR
 KONE SIDNEY AZIZ KHADER
 KOFFI KOUADIO AMANY JACQUES DESIRE
 N'GUESSAN HENRI AIME
+TOURE HOSSEINE HABRAHAM YOUSSELL
 
 Avant tout propos il serait interessant de creer une base de donnees 'banque' et importer la base de donnees 'banque.sql' livrer.
 
